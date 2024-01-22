@@ -1,4 +1,4 @@
-// Homework #5 (JS)
+// Homework#5 (JS)
 
 (() => {
   const refs = {
